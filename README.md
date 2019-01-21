@@ -1,6 +1,7 @@
 # Tasklist
 
 Funcionamento.
+
 Programa para gerenciar as tarefas existentes, com prioridades e status de cada tarefa.
 
 
